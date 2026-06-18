@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/credentials.gif" alt="Champ-Pacifique Mukiza — highlights" width="100%" />
+</p>
+
 # Champ-Pacifique Mukiza
 
 > When the tool doesn’t exist, I build it.
